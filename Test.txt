@@ -1,5 +1,5 @@
-Hola, actualmente estoy escuchando 'Sign of the Times',
-tengo 25 años y vivo en Lima.
+Hola, actualmente estoy escuchando 'Creep',
+tengo 21 años y vivo en Huancayo.
 
 Para añadir cambios a nuestro repositorio, debemos escribir el siguiente comando en git bash.
 # git remote add origin 'enlace de github' #
