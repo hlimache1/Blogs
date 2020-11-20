@@ -1,6 +1,6 @@
 Hola, actualmente estoy escuchando 'Sign of the Times',
 tengo 25 años y vivo en Huancayo, soy del signo tauro.
-My favorite dish is Arroz con pollo.
+My favorite dish is Arroz con pollo.Aloha.
 
 Para añadir cambios a nuestro repositorio, debemos escribir el siguiente comando en git bash.
 # git remote add origin 'enlace de github' #
